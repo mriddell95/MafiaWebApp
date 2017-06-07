@@ -1,7 +1,7 @@
 .gradle/
 build/
-/.metadata
-/.settings
+**/.metadata/
+**/.settings/
 .classpath
 .project
 bin/

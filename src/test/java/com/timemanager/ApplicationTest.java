@@ -6,6 +6,6 @@ package com.timemanager;
  *
  * @author Matthew, @date 6/6/17 9:25 PM
  */
-//public class LibraryTest {
-//
-//}
+public class ApplicationTest {
+
+}
